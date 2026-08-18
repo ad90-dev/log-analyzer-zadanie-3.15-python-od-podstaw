@@ -1,0 +1,5 @@
+Wyniki analizy:
+--------------
+Liczba zapytań: 100
+Liczba udanych zapytań: 33
+Liczba nieudanych zapytań: 67
