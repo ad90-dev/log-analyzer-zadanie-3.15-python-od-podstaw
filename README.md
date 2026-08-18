@@ -10,3 +10,5 @@ Poniższe wymagania projektu zostało przepisane z video wprowadzającego do zad
 > Utwórz plik tekstowy, do którego zapiszesz te informacje.
 
 Autor kursu dołączył plik tekstowy server_logs.txt, na którym program miał pracować, więc umieszczam go w tym repozytorium za wiedzą i zgodą autora kursu. Plik analysis_results.txt jest plikiem wynikowym całkowicie utworzonym przez mój program. Umieszczam go w tym repozytorium do celów poglądowych.
+
+Podczas tworzenia programu korzystałam z wiedzy uzyskanej podczas kursu oraz tej uzyskanej podczas pisania innych projektów, niezwiązanych z tym konkretnym kursem.
